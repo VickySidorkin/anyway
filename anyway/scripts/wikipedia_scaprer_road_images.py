@@ -1,8 +1,5 @@
 """
 This script gets all Israeli road images from Wikipedia
-
-Usage:
-python wikipedia_scaper_road_images.py <dest_folder> [flags]
 """
 
 import re
